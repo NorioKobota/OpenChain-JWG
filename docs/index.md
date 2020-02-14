@@ -85,7 +85,7 @@ OpenChain Japan Work Group (JWG) の Website です。
 
 ## Github Repositories
 
-> commented by kobota
+> commented by kobota  
 > 他の各国WGと同じように、OpenChain-Projectの下に、OpenChain-JWGを作成しなおして、その下にOnboardingなどのディレクトリを作成したほうが良い気がします。
 > またそうすることによって、この章が必要なくなります。
 
@@ -97,35 +97,35 @@ OpenChain Japan Work Group (JWG) の Website です。
 
 ## Mail Lists
 
-We have four mailing lists. To sign up for each mailing list, send a message to following addresses.
+We have four mail lists. To sign up for each mail list, send a message to following addresses.
 
 - OpenChain Japan WG ML  
-&#x2709; japan-wg+subscribe@lists.openchainproject.org
-- License Info SWG ML  
-&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org
+[&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)
+- ライセンス情報 SWG ML  
+[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](japan-sg-licensing+subscribe@lists.openchainproject.org)
 - Planning SWG ML  
-&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org
+[&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](japan-sg-planning+subscribe@lists.openchainproject.org)
 - Tooling SWG ML  
-&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org
+[&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](japan-sg-tooling+subscribe@lists.openchainproject.org)
 
 ## メーリングリスト
 
 OpenChain Japan WGには4つのメーリングリストがあります。各メーリングリストに参加するには、それぞれ下記のアドレスにメールを送信してください。機械的に処理されますので本文の内容は不要です。
 
 - OpenChain Japan WG ML  
-&#x2709; japan-wg+subscribe@lists.openchainproject.org
+[&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)
 - ライセンス情報 SWG ML  
-&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org
+[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](japan-sg-licensing+subscribe@lists.openchainproject.org)
 - Planning SWG ML  
-&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org
+[&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](japan-sg-planning+subscribe@lists.openchainproject.org)
 - Tooling SWG ML  
-&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org
+[&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](japan-sg-tooling+subscribe@lists.openchainproject.org)
 
 ---
 
 ## Slack
 
-&#x1f4ac; openchain-japanwg.slack.com
+[&#x1f4ac; https://openchain-japanwg.slack.com/](https://openchain-japanwg.slack.com/)
 
 ---
 
