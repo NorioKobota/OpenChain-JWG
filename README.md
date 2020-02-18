@@ -16,7 +16,7 @@
    実体としては、[docs/_config.yml](https://github.com/NorioKobota/OpenChain-JWG/blob/master/docs/_config.yml)となる。その他設定に関しては、[Github Pagesのヘルプ](https://help.github.com/ja/github/working-with-github-pages/about-github-pages-and-jekyll)や、jekyllのマニュアル参照。  
    ![themes](images/themes.png)
 1. 後は、docsフォルダ以下に、Websiteとなるコンテンツを(例えば)index.mdとして配置していく。  
-ただし、[Github Pagesを試用するためのガイドライン](https://help.github.com/ja/github/working-with-github-pages/about-github-pages) に記載があるが、
+ただし、[Github Pagesを試用するためのガイドライン](https://help.github.com/ja/github/working-with-github-pages/about-github-pages) に記載があるが、  
    ```GitHub Pages ソースリポジトリには、1GB の推奨上限があります。```  
    なので、出来うる限り、index.mdなどtextベースのコンテンツのみをdocs以下には配置し、その他マテリアルは、その他ディレクトリに配置、リンクで飛ばすのが良いと思います。  
    また、アイコンについては、imageを利用するのではなく、絵文字を利用するのが楽だと思います。例えば、[こちらを参照](https://unicode.org/emoji/charts/full-emoji-list.html)。 **```Code```** に記載された文字コードが、```U+1F600```の場合は、```&#x1F600;```と記載することによって、絵文字が出ます。  
