@@ -17,10 +17,10 @@
    ![themes](images/themes.png)
 1. 後は、docsフォルダ以下に、Websiteとなるコンテンツを(例えば)index.mdとして配置していく。  
 ただし、[Github Pagesを試用するためのガイドライン](https://help.github.com/ja/github/working-with-github-pages/about-github-pages) に記載があるが、
-   > GitHub Pages ソースリポジトリには、1GB の推奨上限があります。  
-
+   ```GitHub Pages ソースリポジトリには、1GB の推奨上限があります。```  
    なので、出来うる限り、index.mdなどtextベースのコンテンツのみをdocs以下には配置し、その他マテリアルは、その他ディレクトリに配置、リンクで飛ばすのが良いと思います。  
-   また、アイコンについては、imageを利用するのではなく、UTF-8 絵文字を利用するのが楽だと思います。例えば、[こういうところを参照](https://lets-emoji.com/emojilist/emojilist-2/) **```HTML Entity```** に記載の文字コードを利用します。  
+   また、アイコンについては、imageを利用するのではなく、絵文字を利用するのが楽だと思います。例えば、[こちらを参照](https://unicode.org/emoji/charts/full-emoji-list.html)。 **```Code```** に記載された文字コードが、```U+1F600```の場合は、```&#x1F600;```と記載することによって、絵文字が出ます。  
+   最後に、既知の問題点として、会合で撮影した写真などを置く場所は別途考える必要がある。Githubを写真のストレージとして使うことは許諾されていないと思います。
 1. 最終的なリポジトリのディレクトリ構成は以下のようになると良いかもしれません。  
    ```
    OpenChain-JWG +- docs-------+- index.md  
